@@ -8,6 +8,7 @@
 # hlsearch on (H) or off (h):
 ~H
 # Command Line History (newest to oldest):
+:wq
 :q!
 
 # Search String History (newest to oldest):
@@ -23,18 +24,57 @@
 	<
 
 # File marks:
-'0  2  0  ~/index.html
-'1  3  1  ~/index.html
-'2  1  0  /public_html/index.html
-'3  4  0  ~/index.html
-'4  25  0  ~/.ssh/id_rsa.pub
+'0  3  0  ~/index.html
+'1  4  0  ~/index.html
+'2  5  1  ~/index.html
+'3  1  0  /public_html/index.html
+'4  6  0  ~/index.html
+'5  25  0  ~/.ssh/id_rsa.pub
 
 # Jumplist (newest first):
--'  2  0  ~/index.html
+-'  3  0  ~/index.html
 -'  1  0  ~/index.html
--'  3  1  ~/index.html
--'  1  0  /public_html/index.html
 -'  4  0  ~/index.html
+-'  5  1  ~/index.html
+-'  1  0  /public_html/index.html
+-'  6  0  ~/index.html
+-'  25  0  ~/.ssh/id_rsa.pub
+-'  1  0  ~/.ssh/id_rsa.pub
+-'  25  0  ~/.ssh/id_rsa.pub
+-'  1  0  ~/.ssh/id_rsa.pub
+-'  25  0  ~/.ssh/id_rsa.pub
+-'  1  0  ~/.ssh/id_rsa.pub
+-'  25  0  ~/.ssh/id_rsa.pub
+-'  1  0  ~/.ssh/id_rsa.pub
+-'  1  0  /public_html/index.html
+-'  25  0  ~/.ssh/id_rsa.pub
+-'  1  0  ~/.ssh/id_rsa.pub
+-'  25  0  ~/.ssh/id_rsa.pub
+-'  1  0  ~/.ssh/id_rsa.pub
+-'  25  0  ~/.ssh/id_rsa.pub
+-'  1  0  ~/.ssh/id_rsa.pub
+-'  25  0  ~/.ssh/id_rsa.pub
+-'  1  0  ~/.ssh/id_rsa.pub
+-'  1  0  /public_html/index.html
+-'  25  0  ~/.ssh/id_rsa.pub
+-'  1  0  ~/.ssh/id_rsa.pub
+-'  25  0  ~/.ssh/id_rsa.pub
+-'  1  0  ~/.ssh/id_rsa.pub
+-'  25  0  ~/.ssh/id_rsa.pub
+-'  1  0  ~/.ssh/id_rsa.pub
+-'  25  0  ~/.ssh/id_rsa.pub
+-'  1  0  ~/.ssh/id_rsa.pub
+-'  1  0  /public_html/index.html
+-'  25  0  ~/.ssh/id_rsa.pub
+-'  1  0  ~/.ssh/id_rsa.pub
+-'  25  0  ~/.ssh/id_rsa.pub
+-'  1  0  ~/.ssh/id_rsa.pub
+-'  25  0  ~/.ssh/id_rsa.pub
+-'  1  0  ~/.ssh/id_rsa.pub
+-'  25  0  ~/.ssh/id_rsa.pub
+-'  1  0  ~/.ssh/id_rsa.pub
+-'  2  0  ~/index.html
+-'  1  0  /public_html/index.html
 -'  25  0  ~/.ssh/id_rsa.pub
 -'  1  0  ~/.ssh/id_rsa.pub
 -'  25  0  ~/.ssh/id_rsa.pub
@@ -74,12 +114,13 @@
 # History of marks within files (newest to oldest):
 
 > ~/index.html
-	"	2	0
-	^	2	0
-	.	2	0
+	"	3	0
+	^	3	0
+	.	3	0
 	+	1	0
+	+	5	0
+	+	4	0
 	+	3	0
-	+	2	0
 
 > /public_html/index.html
 	"	1	0
