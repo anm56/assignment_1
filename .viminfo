@@ -24,24 +24,26 @@
 	<
 
 # File marks:
-'0  5  0  ~/index.html
-'1  4  0  ~/index.html
-'2  3  0  ~/index.html
-'3  6  0  ~/index.html
-'4  7  1  ~/index.html
-'5  1  0  /public_html/index.html
-'6  8  0  ~/index.html
-'7  25  0  ~/.ssh/id_rsa.pub
+'0  7  0  ~/index.html
+'1  5  0  ~/index.html
+'2  4  0  ~/index.html
+'3  3  0  ~/index.html
+'4  8  0  ~/index.html
+'5  9  1  ~/index.html
+'6  1  0  /public_html/index.html
+'7  10  0  ~/index.html
+'8  25  0  ~/.ssh/id_rsa.pub
 
 # Jumplist (newest first):
+-'  7  0  ~/index.html
 -'  5  0  ~/index.html
 -'  4  0  ~/index.html
 -'  3  0  ~/index.html
 -'  1  0  ~/index.html
--'  6  0  ~/index.html
--'  7  1  ~/index.html
--'  1  0  /public_html/index.html
 -'  8  0  ~/index.html
+-'  9  1  ~/index.html
+-'  1  0  /public_html/index.html
+-'  10  0  ~/index.html
 -'  25  0  ~/.ssh/id_rsa.pub
 -'  1  0  ~/.ssh/id_rsa.pub
 -'  25  0  ~/.ssh/id_rsa.pub
@@ -132,14 +134,15 @@
 # History of marks within files (newest to oldest):
 
 > ~/index.html
-	"	5	0
-	^	5	0
-	.	4	47
+	"	7	0
+	^	7	0
+	.	6	53
 	+	1	0
-	+	7	0
-	+	6	0
+	+	9	0
+	+	8	0
 	+	3	34
 	+	4	47
+	+	6	53
 
 > /public_html/index.html
 	"	1	0
