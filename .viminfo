@@ -24,11 +24,48 @@
 
 # File marks:
 '0  2  0  ~/index.html
-'1  25  0  ~/.ssh/id_rsa.pub
+'1  3  1  ~/index.html
+'2  1  0  /public_html/index.html
+'3  4  0  ~/index.html
+'4  25  0  ~/.ssh/id_rsa.pub
 
 # Jumplist (newest first):
 -'  2  0  ~/index.html
 -'  1  0  ~/index.html
+-'  3  1  ~/index.html
+-'  1  0  /public_html/index.html
+-'  4  0  ~/index.html
+-'  25  0  ~/.ssh/id_rsa.pub
+-'  1  0  ~/.ssh/id_rsa.pub
+-'  25  0  ~/.ssh/id_rsa.pub
+-'  1  0  ~/.ssh/id_rsa.pub
+-'  25  0  ~/.ssh/id_rsa.pub
+-'  1  0  ~/.ssh/id_rsa.pub
+-'  25  0  ~/.ssh/id_rsa.pub
+-'  1  0  ~/.ssh/id_rsa.pub
+-'  1  0  /public_html/index.html
+-'  25  0  ~/.ssh/id_rsa.pub
+-'  1  0  ~/.ssh/id_rsa.pub
+-'  25  0  ~/.ssh/id_rsa.pub
+-'  1  0  ~/.ssh/id_rsa.pub
+-'  25  0  ~/.ssh/id_rsa.pub
+-'  1  0  ~/.ssh/id_rsa.pub
+-'  25  0  ~/.ssh/id_rsa.pub
+-'  1  0  ~/.ssh/id_rsa.pub
+-'  1  0  /public_html/index.html
+-'  25  0  ~/.ssh/id_rsa.pub
+-'  1  0  ~/.ssh/id_rsa.pub
+-'  25  0  ~/.ssh/id_rsa.pub
+-'  1  0  ~/.ssh/id_rsa.pub
+-'  25  0  ~/.ssh/id_rsa.pub
+-'  1  0  ~/.ssh/id_rsa.pub
+-'  25  0  ~/.ssh/id_rsa.pub
+-'  1  0  ~/.ssh/id_rsa.pub
+-'  1  0  /public_html/index.html
+-'  25  0  ~/.ssh/id_rsa.pub
+-'  1  0  ~/.ssh/id_rsa.pub
+-'  25  0  ~/.ssh/id_rsa.pub
+-'  1  0  ~/.ssh/id_rsa.pub
 -'  25  0  ~/.ssh/id_rsa.pub
 -'  1  0  ~/.ssh/id_rsa.pub
 -'  25  0  ~/.ssh/id_rsa.pub
@@ -38,8 +75,14 @@
 
 > ~/index.html
 	"	2	0
-	.	1	3
-	+	1	3
+	^	2	0
+	.	2	0
+	+	1	0
+	+	3	0
+	+	2	0
+
+> /public_html/index.html
+	"	1	0
 
 > ~/.ssh/id_rsa.pub
 	"	25	0

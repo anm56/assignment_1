@@ -20,3 +20,14 @@ cat > index.html
 cat > index.html 
 gnome-open"index.html"
 vim index.html
+pwd
+ls
+cd public_html/
+nano index.html
+pwd
+ls
+cd public_html
+nano index.html
+pwd
+ls
+vi index.html
